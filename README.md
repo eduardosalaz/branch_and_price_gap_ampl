@@ -22,7 +22,7 @@ is profit, `w[i,j]` is weight, `d[j]` is capacity, and the problem is
 ## Run
 
 ```bash
-python -m pip install --upgrade amplpy
+python -m pip install --upgrade amplpy pandas
 python -m amplpy.modules install highs
 python bnp.py
 ```
